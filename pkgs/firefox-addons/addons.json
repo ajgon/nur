@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "amp2html"
+  },
+  {
+    "slug" : "behave"
+  },
+  {
+    "slug": "bitwarden-password-manager",
+    "pname": "bitwarden"
+  },
+  {
+    "slug": "canvasblocker"
+  },
+  {
+    "slug": "clearurls"
+  },
+  {
+    "slug": "css-exfil-protection"
+  },
+  {
+    "slug": "dark-night-mode"
+  },
+  {
+    "slug": "facebook-container"
+  },
+  {
+    "slug": "foxyproxy-standard"
+  },
+  {
+    "slug": "google-container"
+  },
+  {
+    "slug": "google-no-tracking-url"
+  },
+  {
+    "slug": "header-editor"
+  },
+  {
+    "slug": "https-everywhere",
+    "license": {
+      "tag": "custom",
+      "shortName": "https-everywhere-license",
+      "fullName": "Multiple",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/license/",
+      "free": true
+    }
+  },
+  {
+    "slug": "i-dont-care-about-cookies"
+  },
+  {
+    "slug": "multi-account-containers"
+  },
+  {
+    "slug": "neat-url"
+  },
+  {
+    "slug": "old-reddit-redirect"
+  },
+  {
+    "slug": "org-capture"
+  },
+  {
+    "slug": "redirector"
+  },
+  {
+    "slug": "requestcontrol"
+  },
+  {
+    "slug": "smart-referer"
+  },
+  {
+    "slug": "skip-redirect"
+  },
+  {
+    "slug": "styl-us",
+    "pname": "stylus"
+  },
+  {
+    "slug": "temporary-containers"
+  },
+  {
+    "slug": "ublock-origin"
+  },
+  {
+    "slug": "ubo-scope"
+  },
+  {
+    "slug": "umatrix"
+  },
+  {
+    "slug": "vimium-ff",
+    "pname": "vimium"
+  },
+  {
+    "slug": "youtube-nonstop"
+  }
+]
